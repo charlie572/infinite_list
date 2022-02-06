@@ -4,7 +4,7 @@ setup(
     name='infinite_list',
     version='0.1.0',
     packages=[''],
-    url='',
+    url='https://github.com/charlie572/infinite_list',
     license='',
     author='Charlie',
     author_email='barehamcharlie@gmail.com',

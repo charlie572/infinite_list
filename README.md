@@ -4,7 +4,7 @@ A list that spans infinitely in both directions
 
 Values can be set and retrieved using functions, subscripts, or slices.
 
-Using slices with steps other e.g. `li[0:10:2]` is not implemented yet. 
+Using slices with steps other step values e.g. `li[0:10:2]` is not implemented yet. 
 
 ## Usage
 ```python
